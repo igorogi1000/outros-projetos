@@ -1,0 +1,9 @@
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\bin\Debug\Maquina de Memes.exe.config
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\obj\Debug\Maquina de Memes.csprojResolveAssemblyReference.cache
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\bin\Debug\Maquina de Memes.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\bin\Debug\Maquina de Memes.pdb
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\obj\Debug\Maquina de Memes.exe
+c:\users\alunoct\documents\visual studio 2013\Projects\Maquina de Memes\Maquina de Memes\obj\Debug\Maquina de Memes.pdb
+D:\Maquina de Memes\Maquina de Memes\bin\Debug\Maquina de Memes.exe.config
+D:\Maquina de Memes\Maquina de Memes\obj\Debug\Maquina de Memes.exe
+D:\Maquina de Memes\Maquina de Memes\obj\Debug\Maquina de Memes.pdb
