@@ -1,0 +1,6 @@
+C:\Users\alunoct\Desktop\Musicando\Musicando\bin\Debug\Musicando.exe.config
+C:\Users\alunoct\Desktop\Musicando\Musicando\bin\Debug\Musicando.exe
+C:\Users\alunoct\Desktop\Musicando\Musicando\bin\Debug\Musicando.pdb
+C:\Users\alunoct\Desktop\Musicando\Musicando\obj\Debug\Musicando.csprojResolveAssemblyReference.cache
+C:\Users\alunoct\Desktop\Musicando\Musicando\obj\Debug\Musicando.exe
+C:\Users\alunoct\Desktop\Musicando\Musicando\obj\Debug\Musicando.pdb
